@@ -37,22 +37,22 @@ Built using Next.js, Supabase, TypeScript, and Tailwind CSS.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 44 40 AM" src="https://github.com/user-attachments/assets/67c90a08-06d4-4a62-8968-e1e64cef3339" />
+(<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 44 40 AM" src="https://github.com/user-attachments/assets/67c90a08-06d4-4a62-8968-e1e64cef3339" />
 )
 
 ### Enquiry Form
-![Enquiry Form](<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 44 49 AM" src="https://github.com/user-attachments/assets/d22a0329-e554-40c4-96f3-cddf55fbb06d" />
+(<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 44 49 AM" src="https://github.com/user-attachments/assets/d22a0329-e554-40c4-96f3-cddf55fbb06d" />
 )
 
 
 ### Provider Dashboard
-![Dashboard](<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 45 12 AM" src="https://github.com/user-attachments/assets/1dd69a30-71a5-4107-9a4e-c50a720f1c0e" />
+(<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 45 12 AM" src="https://github.com/user-attachments/assets/1dd69a30-71a5-4107-9a4e-c50a720f1c0e" />
 )
 (<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 45 21 AM" src="https://github.com/user-attachments/assets/0d7d3bdb-151d-4d63-8c7a-0bc699805487" />
 )
 
 ### Authentication
-![Authentication](<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 47 43 AM" src="https://github.com/user-attachments/assets/89c67497-5f53-4aaa-aa06-929b2679b6a0" />
+(<img width="1470" height="807" alt="Screenshot 2026-05-24 at 12 47 43 AM" src="https://github.com/user-attachments/assets/89c67497-5f53-4aaa-aa06-929b2679b6a0" />
 )
 
 ---
